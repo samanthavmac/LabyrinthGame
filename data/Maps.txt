@@ -1,0 +1,12 @@
+I0,false,true,false,false,true,false,false,true,false,
+I1,false,false,false,true,true,true,false,false,false,
+I2,false,true,false,false,true,false,false,true,false,
+I3,false,false,false,true,true,true,false,false,false,
+L0,false,true,false,false,true,true,false,false,false,
+L1,false,false,false,false,true,true,false,true,false,
+L2,false,false,false,true,true,false,false,true,false,
+L3,false,true,false,true,true,false,false,false,false,
+T0,false,false,false,true,true,true,false,true,false,
+T1,false,true,false,true,true,false,false,true,false,
+T2,false,true,false,true,true,true,false,false,false,
+T3,false,true,false,false,true,true,false,true,false
